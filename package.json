@@ -1,0 +1,17 @@
+{
+  "name": "next-vercel-pino-logflare-logging-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "pino-logflare": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
